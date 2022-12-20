@@ -15,6 +15,7 @@
 A 320px x 320px SVG Wire Frame with examples is [here](../pixel-pooly-assets/PoolyWireFrame.svg).
 
 When compiling the NFT the Layers compile in the following order:
+
 0. [Background](PoolyBuilder.md#0-Background)
 1. [Body](PoolyBuilder.md#1-Body)
 2. [Head](PoolyBuilder.md#2-Head)
