@@ -12,7 +12,7 @@
 ---
 
 #### **TLDR:**
-A 320px x 320px SVG Wire Frame with examples is [here](../pixel-pooly-assets/SVG/PoolyWireFrame.svg).
+A 320px x 320px SVG Wire Frame with examples is [here](../pixel-pooly-assets/PoolyWireFrame.svg).
 
 When compiling the NFT the Layers compile in the following order:
 0. [Background](PoolyBuilder.md#0-Background)
@@ -34,7 +34,7 @@ Pixel Pooly is currently fairly low resolution. To simulate this each Pooly pixe
 #### **Swooping into the Details**
 
 You'll find a 320px x 320px SVG file with a Wire Frame and Pixel Pooly Examples in this repo:
-[Wire Frame](../pixel-pooly-assets/SVG/PoolyWireFrame.svg)
+[Wire Frame](../pixel-pooly-assets/PoolyWireFrame.svg)
 This Wire Frame includes a series of examples for some of the traits. It should also be noted that each Pooly pixel is actually 10px x 10px, so a higher resolution image can be created in this 320px x 320px framework.
 
 #### The Layer Composition
@@ -112,7 +112,7 @@ Yes the V in SVG is for Vector, yes Pixel Pooly is blocky pixels. To do this the
   - Note: combining objects will require some planning to ensure the image is layered appropriately.
 
 #### Using the Wire Frame
-The [Wire Frame](../pixel-pooly-assets/SVG/PoolyWireFrame.svg) for Pixel Pooly has a lot of groups and layers in the SVG.
+The [Wire Frame](../pixel-pooly-assets/PoolyWireFrame.svg) for Pixel Pooly has a lot of groups and layers in the SVG.
 Some of these groups contain layers that are examples to experiment with and see how the layers for building a Pooly work.
 Each example layer should start with a number, this indicates the layer that trait is in the [Layer Composition](PoolyBuilder.md#swooping-into-the-details).
 
