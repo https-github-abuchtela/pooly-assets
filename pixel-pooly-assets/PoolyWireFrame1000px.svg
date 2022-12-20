@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="320"
-   height="320"
-   viewBox="0 0 84.666665 84.666669"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58335"
    version="1.1"
    id="svg5"
    shape-rendering="crispEdges"
-   sodipodi:docname="PoolyWireFrame.svg"
+   sodipodi:docname="PoolyWireFrame1000px.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,21 +23,23 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="2.01875"
-     inkscape:cx="76.780186"
-     inkscape:cy="149.59752"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="354.9676"
+     inkscape:cy="673.16565"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4226">
+     inkscape:current-layer="svg5"
+     objecttolerance="10000"
+     guidetolerance="10000">
     <inkscape:grid
        type="xygrid"
-       id="grid845"
+       id="grid961"
        dotted="true"
-       spacingx="2.6458333"
-       spacingy="2.6458333" />
+       spacingx="0.84666669"
+       spacingy="0.84666669" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -53,19 +55,21 @@
   <g
      id="g9692"
      inkscape:label="BaseAssets"
-     style="display:none">
+     style="display:inline"
+     transform="matrix(3.3333334,0,0,3.5713215,-8.8194434,-32.506094)">
     <rect
-       style="display:inline;fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:none;fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.239356;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect932"
-       width="37.041664"
-       height="29.104164"
-       x="23.812504"
-       y="55.5625"
+       width="34.616299"
+       height="25.386045"
+       x="25.025185"
+       y="57.681644"
        inkscape:label="1-Body" />
     <g
        id="g9808"
        inkscape:label="2-Head"
-       style="display:inline">
+       style="display:none"
+       transform="matrix(0.93687052,0,0,0.87599701,2.7221648,9.1776921)">
       <path
          id="rect4991"
          style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
@@ -90,7 +94,8 @@
     <g
        id="g9649"
        inkscape:label="4-LeftWing"
-       style="display:inline">
+       style="display:none"
+       transform="matrix(0.9220128,0,0,0.86445757,2.9473563,9.7213409)">
       <path
          id="rect5538"
          style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
@@ -105,8 +110,8 @@
     <g
        id="g9649-9"
        inkscape:label="5-RightWing"
-       transform="matrix(-1,0,0,1,84.666665,5e-7)"
-       style="display:inline">
+       transform="matrix(-0.92122771,0,0,0.86015396,81.732567,10.063044)"
+       style="display:none">
       <path
          id="rect5538-9"
          style="fill:#5227a7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264999"
@@ -125,7 +130,7 @@
       <g
          id="g10022"
          inkscape:label="1-RightWing"
-         transform="translate(-5.2916669,18.520834)"
+         transform="matrix(0.92799998,0,0,0.87778434,-1.5874973,25.134984)"
          style="display:none">
         <path
            id="rect10215"
@@ -139,7 +144,7 @@
       <g
          id="g9945"
          inkscape:label="3-HatUse"
-         transform="translate(-5.2916661,-34.395833)"
+         transform="matrix(0.93142857,0,0,0.87199611,-1.8142843,-20.573147)"
          style="display:none">
         <path
            id="rect9220"
@@ -153,7 +158,7 @@
       <g
          id="g10302"
          inkscape:label="6-HeadAccessory-Big"
-         transform="translate(-13.229166,-10.583334)"
+         transform="matrix(0.93868027,0,0,0.97537118,-9.7440811,-3.5371539)"
          style="display:none">
         <path
            id="rect13356"
@@ -194,7 +199,7 @@
       <g
          id="g10059"
          inkscape:label="7-FaceAccesory-Eye"
-         transform="translate(2.645831)"
+         transform="matrix(0.94558135,0,0,0.8756921,4.7630595,9.1540676)"
          style="display:none">
         <path
            id="rect11190"
@@ -208,7 +213,7 @@
       <g
          id="g9963"
          inkscape:label="7-FaceAccesory-Mouth"
-         transform="translate(15.874999,-7.9375012)"
+         transform="matrix(0.90981822,0,0,0.86312136,18.532377,2.8603906)"
          style="display:none">
         <path
            id="rect5385"
@@ -222,7 +227,7 @@
       <g
          id="g10527"
          inkscape:label="8-BodyAccessory"
-         transform="translate(-5.2916664,23.812499)"
+         transform="matrix(0.9353647,0,0,0.9353647,-2.1398243,28.152445)"
          style="display:none">
         <path
            id="rect5608"
@@ -236,7 +241,7 @@
       <g
          id="g9994"
          inkscape:label="10-LeftWingAccesory"
-         transform="translate(-37.041666,13.229165)"
+         transform="matrix(0.93814762,0,0,0.94850444,-32.150175,14.906963)"
          style="display:none">
         <path
            id="rect11719"
@@ -253,7 +258,8 @@
      id="g4226"
      inkscape:label="WireFrame"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="matrix(3.1150777,0,0,3.1150777,0.42004955,0.41209829)">
     <rect
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect847"
